@@ -1,4 +1,4 @@
-# instagram
+# InstagramUIclone
 
 A new Flutter project.
 
@@ -14,3 +14,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+#### Screenshot
+
+
+<table>
+  <tr width=270 height=480>
+    <td><img src = https://i.ibb.co/tLRmGW1/Screenshot-20190712-023910.png/> </td>
+    <td><img src = https://i.ibb.co/bLgvd0z/Screenshot-20190712-025840.png/> </td>
+  </tr>
+</table>
